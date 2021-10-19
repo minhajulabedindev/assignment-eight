@@ -1,0 +1,129 @@
+[
+    {
+    "key": "B002RL8IYK",
+    "name": "Jhankar Mahbub",
+    "position":"CEO & Founder",
+    "salary": 100000,
+    "age": 33,
+    "img": "https://web.programming-hero.com/public/1625573122618.png",
+    "country":"BD"
+
+    
+},
+
+    {
+    "key": "B002RL8DHG",
+    "name": "Karina Islam",
+    "position":"Advisor",
+    "salary": 120000,
+    "age": 28,
+    "img": "https://web.programming-hero.com/public/1625573160811.png",
+    "country":"BD"
+    
+},
+
+    {
+    "key": "B002RL8BFF",
+    "name": "Rasel Ahmed",
+    "position":"Product Manager",
+    "salary": 90000,
+    "age": 26,
+    "img": "https://web.programming-hero.com/public/1625419447111.png",
+    "country":"BD"
+    
+},
+    {
+    "key": "B002RL8BSR",
+    "name": "Shajedul Karim",
+    "position":"Chief Operating Officer",
+    "salary": 80000,
+    "age": 30,
+    "img": "https://web.programming-hero.com/public/1625573176714.png",
+    "country":"BD"
+    
+},
+    {
+    "key": "B002RL8NBF",
+    "name": "Sufi Ahmed Hamim",
+    "position":"Product Designer",
+    "salary": 70000,
+    "age": 29,
+    "img": "https://web.programming-hero.com/public/1625573189607.png",
+    "country":"BD"
+    
+},
+    {
+    "key": "B002RL8IRE",
+    "name": "Rezaul Karim",
+    "position":"Product Manager",
+    "salary": 86000,
+    "age": 27,
+    "img": "https://web.programming-hero.com/public/1625573334879.png",
+    "country":"BD"
+    
+},
+    {
+    "key": "B002RL8MDL",
+    "name": "Sadia Sultana Kumu",
+    "position":"Web Developer",
+    "salary": 60000,
+    "age": 23,
+    "img": "https://web.programming-hero.com/public/1625573626449.png",
+    "country":"BD"
+    
+},
+    {
+    "key": "B002RL8BGC",
+    "name": "Afsara Tasnim Lamia",
+    "position":"SQA Engineer",
+    "salary": 670000,
+    "age": 24,
+    "img": "https://web.programming-hero.com/public/1625573860483.png",
+    "country":"BD"
+    
+},
+    {
+    "key": "B002RL8DFG",
+    "name": "Israfil Hossen",
+    "position":"Web Developer (Support Instructor)",
+    "salary": 770000,
+    "age": 25,
+    "img": "https://web.programming-hero.com/public/1625573942996.png",
+    "country":"BD"
+
+    
+},
+    {
+    "key": "B002RL8UHK",
+    "name": "Mujahidul Islam",
+    "position":"Content Editor",
+    "age": 23,
+    "salary": 650000,
+    "img": "https://web.programming-hero.com/public/1625573485356.png",
+    "country":"BD"
+    
+},
+    {
+    "key": "B002RL8EDA",
+    "name": "Riyan Hasan",
+    "position":"Job Placement Executive",
+    "age": 28,
+    "salary": 850000,
+    "img": "https://web.programming-hero.com/public/1628776195275.png",
+    "country":"BD"
+    
+},
+    {
+    "key": "B002RL8WFS",
+    "name": "A.K.M. Intisar Islam",
+    "position":"Marketing Mafia",
+    "age": 26,
+    "salary": 750000,
+    "img": "https://web.programming-hero.com/public/1628776077763.png",
+    "country":"BD"
+
+    
+}
+
+
+]

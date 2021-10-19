@@ -1,0 +1,102 @@
+[
+    {
+    "key": "B002RL8IYK",
+    "name": "Jhankar Mahbub",
+    "positon":"CEO & Founder",
+    "salary": 100000,
+    "img": "https://web.programming-hero.com/public/1625573122618.png"
+    
+},
+
+    {
+    "key": "B002RL8DHG",
+    "name": "Karina Islam",
+    "positon":"Advisor",
+    "salary": 120000,
+    "img": "https://web.programming-hero.com/public/1625573160811.png"
+    
+},
+
+    {
+    "key": "B002RL8BFF",
+    "name": "Rasel Ahmed",
+    "positon":"Product Manager",
+    "salary": 90000,
+    "img": "https://web.programming-hero.com/public/1625419447111.png"
+    
+},
+    {
+    "key": "B002RL8BSR",
+    "name": "Shajedul Karim",
+    "positon":"Chief Operating Officer",
+    "salary": 80000,
+    "img": "https://web.programming-hero.com/public/1625573176714.png"
+    
+},
+    {
+    "key": "B002RL8NBF",
+    "name": "Sufi Ahmed Hamim",
+    "positon":"Product Designer",
+    "salary": 70000,
+    "img": "https://web.programming-hero.com/public/1625573189607.png"
+    
+},
+    {
+    "key": "B002RL8IRE",
+    "name": "Rezaul Karim",
+    "positon":"Product Manager",
+    "salary": 86000,
+    "img": "https://web.programming-hero.com/public/1625573334879.png"
+    
+},
+    {
+    "key": "B002RL8MDL",
+    "name": "Sadia Sultana Kumu",
+    "positon":"Web Developer",
+    "salary": 60000,
+    "img": "https://web.programming-hero.com/public/1625573334879.png"
+    
+},
+    {
+    "key": "B002RL8BGC",
+    "name": "Afsara Tasnim Lamia",
+    "positon":"SQA Engineer",
+    "salary": 670000,
+    "img": "https://web.programming-hero.com/public/1625573860483.png"
+    
+},
+    {
+    "key": "B002RL8DFG",
+    "name": "Israfil Hossen",
+    "positon":"Web Developer (Support Instructor)",
+    "salary": 770000,
+    "img": "https://web.programming-hero.com/public/1625573942996.png"
+    
+},
+    {
+    "key": "B002RL8UHK",
+    "name": "Mujahidul Islam",
+    "positon":"Content Editor",
+    "salary": 650000,
+    "img": "https://web.programming-hero.com/public/1625573485356.png"
+    
+},
+    {
+    "key": "B002RL8EDA",
+    "name": "Riyan Hasan",
+    "positon":"Job Placement Executive",
+    "salary": 850000,
+    "img": "https://web.programming-hero.com/public/1628776195275.png"
+    
+},
+    {
+    "key": "B002RL8WFS",
+    "name": "A.K.M. Intisar Islam",
+    "positon":"Marketing Mafia",
+    "salary": 750000,
+    "img": "https://web.programming-hero.com/public/1628776077763.png"
+    
+}
+
+
+]
